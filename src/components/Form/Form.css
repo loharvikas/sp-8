@@ -1,0 +1,17 @@
+.form-control {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.submit {
+    margin: 10px 0;
+    background-color: coral;
+    border: 2px solid black;
+    color:black;
+    border-radius: 5px;
+    width:100px;
+    height: 40px;
+    cursor: pointer;
+}
+
